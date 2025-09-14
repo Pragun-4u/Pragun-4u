@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pragun Karande</h1>
-<h3 align="center">Full Stack Developer | React.js • Next.js • Node.js</h3>
+<h3 align="center">Full Stack Developer </h3>
 
 <p align="center">
   <a href="https://github.com/Pragun-4u">
