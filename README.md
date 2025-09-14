@@ -22,9 +22,9 @@
 ### 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://pragun4u.cloud" target="blank"><img src="https://portfolio.pragun4u.cloud/Pragunlogo.svg" height="40" alt="portfolio"/></a>
-  <a href="https://twitter.com/pragunxo" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://www.linkedin.com/in/pragun-karande-321b27241/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://pragun4u.cloud" target="_blank"><img src="https://portfolio.pragun4u.cloud/Pragunlogo.svg" height="40" alt="portfolio"/></a>
+  <a href="https://twitter.com/pragunxo" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://www.linkedin.com/in/pragun-karande-321b27241/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 </p>
 
 ---
