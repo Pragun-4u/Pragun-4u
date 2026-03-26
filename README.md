@@ -13,8 +13,8 @@
 
 - 💻 Experienced Full Stack Developer   
 - 🌱 Currently exploring **system design, cloud integrations & advanced backend**  
-- 🛠️ Experienced in **React, Next.js, TypeScript, Node.js, Express, MongoDB, AWS**  
-- 🌐 Portfolio: [pragun4u.cloud](https://pragun4u.cloud)  
+- 🛠️ Experienced in **React, Next.js, TypeScript, Node.js, Express, MongoDB, MySQL, AWS**  
+- 🌐 Portfolio: [pragunkarande.com](https://pragunkarande.com)  
 - 📫 Reach me at **pragunkarande.work@gmail.com**  
 
 ---
